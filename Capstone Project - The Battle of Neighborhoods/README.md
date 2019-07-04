@@ -1,5 +1,5 @@
 # Data Science Capstone Project
-The repository will include code for the Capstone project in Applied Data Science Capstone course on Coursera. This includes various notebooks, reports and the complete data science project.
+The repository includes the code for the Capstone project in Applied Data Science Capstone course on Coursera. This includes various notebooks, reports and the complete data science project.
 
 
 ### Capstone Project description
